@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751438317594",
+    "project_id": "practice-project-bbb9a",
+    "storage_bucket": "practice-project-bbb9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751438317594:android:868c0f36026c8f504b69a3",
+        "android_client_info": {
+          "package_name": "com.example.footwear_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH33MYDJMst_9yd5wA76o1z8djHn-kqY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751438317594:android:2d95eda81355ad994b69a3",
+        "android_client_info": {
+          "package_name": "com.example.prcatice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH33MYDJMst_9yd5wA76o1z8djHn-kqY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+ /home/abhimicro/AndroidStudioProjects/footwear_client/.dart_tool/flutter_build/d269a0d96e574f7761dc8487e4533a19/native_assets.yaml: 
